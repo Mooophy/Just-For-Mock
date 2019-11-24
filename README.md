@@ -2,6 +2,7 @@
  * 0001	Two Sum    
  * 0020 Valid Parentheses
  * 0198 House Robber
+ * 0278 First Bad Version 
 ## Medium
  * 0033 Search in Rotated Sorted Array
  * 0091 Decode Ways
