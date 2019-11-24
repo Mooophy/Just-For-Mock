@@ -9,6 +9,7 @@
  * 0102 Binary Tree Level Order Traversal
  * 0139 Word Break
  * 0200 Number of Islands
+ * 0208 Implement Trie (Prefix Tree)
  * 0353 Design Snake Game
  * 0416 Partition Equal Subset Sum
  * 0474 Ones and Zeroes
@@ -16,7 +17,9 @@
  * 0712 Minimum ASCII Delete Sum for Two Strings
  * 0790 Domino and Tromino Tiling
  * 0875 Koko Eating Bananas 
+ * 0881 Boats to Save People
  * 1167 Minimum Cost to Connect Sticks
+ * 1254 Number of Closed Islands
 
 ## Hard
  * 0023 Merge k Sorted Lists
