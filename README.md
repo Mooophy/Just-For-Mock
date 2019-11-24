@@ -12,6 +12,7 @@
  * 0416 Partition Equal Subset Sum
  * 0474 Ones and Zeroes
  * 0695 Max Area of Island
+ * 0712 Minimum ASCII Delete Sum for Two Strings
  * 0790 Domino and Tromino Tiling
  * 0875 Koko Eating Bananas 
  * 1167 Minimum Cost to Connect Sticks
