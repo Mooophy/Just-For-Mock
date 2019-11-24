@@ -6,6 +6,7 @@
  * 0033 Search in Rotated Sorted Array
  * 0091 Decode Ways
  * 0102 Binary Tree Level Order Traversal
+ * 0139 Word Break
  * 0200 Number of Islands
  * 0353 Design Snake Game
  * 0416 Partition Equal Subset Sum
