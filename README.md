@@ -6,6 +6,7 @@
 ## Medium
  * 0033 Search in Rotated Sorted Array
  * 0091 Decode Ways
+ * 0096 Unique Binary Search Trees
  * 0102 Binary Tree Level Order Traversal
  * 0139 Word Break
  * 0200 Number of Islands
