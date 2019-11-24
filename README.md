@@ -17,3 +17,7 @@
  * 1167 Minimum Cost to Connect Sticks
 
 ### Hard
+ * 0023 Merge k Sorted Lists
+ * 0072 Edit Distance
+ * 0124 Binary Tree Maximum Path Sum 
+ * 1095 Find in Mountain Array
