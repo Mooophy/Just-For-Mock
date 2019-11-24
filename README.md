@@ -7,6 +7,7 @@
  * 0091 Decode Ways
  * 0102 Binary Tree Level Order Traversal
  * 0200 Number of Islands
+ * 0353 Design Snake Game
  * 0416 Partition Equal Subset Sum
  * 0474 Ones and Zeroes
  * 0695 Max Area of Island
