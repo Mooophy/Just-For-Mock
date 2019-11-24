@@ -1,11 +1,11 @@
 # Just-For-Mock
 
 
-### Easy
+## Easy
  * 0001	Two Sum    
  * 0020 Valid Parentheses
  * 0198 House Robber
-### Medium
+## Medium
  * 0033 Search in Rotated Sorted Array
  * 0091 Decode Ways
  * 0102 Binary Tree Level Order Traversal
@@ -16,7 +16,7 @@
  * 0875 Koko Eating Bananas 
  * 1167 Minimum Cost to Connect Sticks
 
-### Hard
+## Hard
  * 0023 Merge k Sorted Lists
  * 0072 Edit Distance
  * 0124 Binary Tree Maximum Path Sum 
