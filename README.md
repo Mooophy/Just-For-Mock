@@ -1,6 +1,3 @@
-# Just-For-Mock
-
-
 ## Easy
  * 0001	Two Sum    
  * 0020 Valid Parentheses
