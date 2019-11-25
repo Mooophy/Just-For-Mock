@@ -12,6 +12,7 @@
  * 0200 Number of Islands
  * 0208 Implement Trie (Prefix Tree)
  * 0227 Basic Calculator II
+ * 0287 Find the Duplicate Number
  * 0353 Design Snake Game
  * 0416 Partition Equal Subset Sum
  * 0474 Ones and Zeroes
