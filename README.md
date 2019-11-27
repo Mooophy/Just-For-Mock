@@ -1,5 +1,5 @@
 ## Easy
- * 0001	Two Sum (`Mocked with @Chi 27 Nov`)
+ * 0001	Two Sum (`27 Nov with @Chi`)
  * 0020 Valid Parentheses
  * 0198 House Robber
  * 0278 First Bad Version 
