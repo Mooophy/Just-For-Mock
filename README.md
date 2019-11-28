@@ -28,6 +28,7 @@
  * 1254 Number of Closed Islands
 
 ## Hard
+ * 0010 Regular Expression Matching
  * 0023 Merge k Sorted Lists
  * 0044 Wildcard Matching
  * 0072 Edit Distance
