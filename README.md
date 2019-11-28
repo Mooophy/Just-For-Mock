@@ -1,6 +1,8 @@
 ## Easy
  * 0001	Two Sum `27 Nov @Chi`
  * 0020 Valid Parentheses
+ * 0121 Best Time to Buy and Sell Stock
+ * 0122 Best Time to Buy and Sell Stock II
  * 0198 House Robber
  * 0278 First Bad Version 
  * 0704 Binary Search
