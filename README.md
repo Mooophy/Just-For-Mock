@@ -39,8 +39,8 @@
  * 0124 Binary Tree Maximum Path Sum 
  * 0132 Palindrome Partitioning II
  * 0224 Basic Calculator
+ * 0340 Longest Substring with At Most K Distinct Characters
  * 0552 Student Attendance Record II
  * 0827 Making A Large Island
  * 1095 Find in Mountain Array
-
  
