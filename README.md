@@ -39,6 +39,7 @@
  * 0124 Binary Tree Maximum Path Sum 
  * 0132 Palindrome Partitioning II
  * 0224 Basic Calculator
+ * 0301 Remove Invalid Parentheses
  * 0340 Longest Substring with At Most K Distinct Characters
  * 0514 Freedom Trail
  * 0552 Student Attendance Record II
