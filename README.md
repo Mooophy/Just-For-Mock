@@ -24,7 +24,7 @@
  * 0712 Minimum ASCII Delete Sum for Two Strings
  * 0790 Domino and Tromino Tiling
  * 0875 Koko Eating Bananas 
- * 0881 Boats to Save People
+ * 0881 Boats to Save People `3 Dec @Scot`
  * 1155 Number of Dice Rolls With Target Sum 
  * 1167 Minimum Cost to Connect Sticks
  * 1254 Number of Closed Islands
