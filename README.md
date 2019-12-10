@@ -14,6 +14,7 @@
  * 0139 Word Break
  * 0200 Number of Islands
  * 0208 Implement Trie (Prefix Tree)
+ * 0221 Maximal Square
  * 0227 Basic Calculator II
  * 0287 Find the Duplicate Number
  * 0337 House Robber III
