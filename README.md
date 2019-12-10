@@ -24,6 +24,7 @@
  * 0695 Max Area of Island
  * 0712 Minimum ASCII Delete Sum for Two Strings
  * 0790 Domino and Tromino Tiling
+ * 0802 Find Eventual Safe States
  * 0875 Koko Eating Bananas 
  * 0881 Boats to Save People `3 Dec @Scot`
  * 1066 Campus Bikes II
