@@ -27,6 +27,7 @@
  * 0790 Domino and Tromino Tiling
  * 0802 Find Eventual Safe States
  * 0875 Koko Eating Bananas 
+ * 0877 Stone Game
  * 0881 Boats to Save People `3 Dec @Scot`
  * 1066 Campus Bikes II
  * 1155 Number of Dice Rolls With Target Sum 
