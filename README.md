@@ -48,6 +48,7 @@
  * 0301 Remove Invalid Parentheses
  * 0329 Longest Increasing Path in a Matrix
  * 0340 Longest Substring with At Most K Distinct Characters
+ * 0403 Frog Jump
  * 0514 Freedom Trail
  * 0552 Student Attendance Record II
  * 0773 Sliding Puzzle
