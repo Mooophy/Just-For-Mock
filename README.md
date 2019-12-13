@@ -21,6 +21,7 @@
  * 0353 Design Snake Game
  * 0416 Partition Equal Subset Sum
  * 0474 Ones and Zeroes
+ * 0486 Predict the Winner
  * 0651 4 Keys Keyboard
  * 0695 Max Area of Island
  * 0712 Minimum ASCII Delete Sum for Two Strings
