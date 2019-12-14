@@ -17,6 +17,7 @@
  * 0221 Maximal Square
  * 0227 Basic Calculator II
  * 0287 Find the Duplicate Number
+ * 0294 Flip Game II
  * 0337 House Robber III
  * 0353 Design Snake Game
  * 0416 Partition Equal Subset Sum
